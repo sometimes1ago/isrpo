@@ -1,0 +1,15 @@
+D:\Repos\SwimmingPool\SwimmingPool\bin\Debug\SwimmingPool.exe.config
+D:\Repos\SwimmingPool\SwimmingPool\bin\Debug\SwimmingPool.exe
+D:\Repos\SwimmingPool\SwimmingPool\bin\Debug\SwimmingPool.pdb
+D:\Repos\SwimmingPool\SwimmingPool\obj\Debug\SwimmingPool.csproj.AssemblyReference.cache
+D:\Repos\SwimmingPool\SwimmingPool\obj\Debug\SwimmingPool.Auth.resources
+D:\Repos\SwimmingPool\SwimmingPool\obj\Debug\SwimmingPool.Properties.Resources.resources
+D:\Repos\SwimmingPool\SwimmingPool\obj\Debug\SwimmingPool.csproj.GenerateResource.cache
+D:\Repos\SwimmingPool\SwimmingPool\obj\Debug\SwimmingPool.csproj.CoreCompileInputs.cache
+D:\Repos\SwimmingPool\SwimmingPool\obj\Debug\SwimmingPool.exe
+D:\Repos\SwimmingPool\SwimmingPool\obj\Debug\SwimmingPool.pdb
+D:\Repos\SwimmingPool\SwimmingPool\obj\Debug\SwimmingPool.Main.resources
+D:\Repos\SwimmingPool\SwimmingPool\obj\Debug\SwimmingPool.Pools.resources
+D:\Repos\SwimmingPool\SwimmingPool\obj\Debug\SwimmingPool.Trainers.resources
+D:\Repos\SwimmingPool\SwimmingPool\obj\Debug\SwimmingPool.Groups.resources
+D:\Repos\SwimmingPool\SwimmingPool\obj\Debug\SwimmingPool.Tickets.resources
